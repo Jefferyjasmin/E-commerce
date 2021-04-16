@@ -1,38 +1,13 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+/*
+ {
+  apiKey: "AIzaSyCeCmg6FLmhCYGOd5X1QumIxGrKp6_k21Y",
+  authDomain: "ecommerce-c7cd1.firebaseapp.com",
+  projectId: "ecommerce-c7cd1",
+  storageBucket: "ecommerce-c7cd1.appspot.com",
+  messagingSenderId: "383645297540",
+  appId: "1:383645297540:web:4d3d3bf05023e2f2168bd1",
+  measurementId: "G-7RNSJMGW5Q"
+}; */
